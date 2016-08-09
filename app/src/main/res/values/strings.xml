@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">本を持っている人</string>
+
+    <string name="textView1">"交換をリクエストします"</string>
+    <string name="textView2">"1.クリックポストで宛名ラベルを作成しましょう。"</string>
+    <string name="buttonClickPost">"クリックポストへ"</string>
+
+    <string name="textView3">"2.宛名ラベルのデータをアップロードしましょう。"</string>
+    <string name="buttonSelectFile">"ファイルを選択"</string>
+    <string name="buttonUpload">"アップロード"</string>
+
+    <string name="textView4">"3.同梱を希望する場合はチェックを入れてください。"</string>
+    <string name="checkBoxBundle">"同梱希望"</string>
+
+    <string name="buttonCancel">"キャンセル"</string>
+    <string name="buttonRequest">"リクエスト完了"</string>
+
+</resources>
